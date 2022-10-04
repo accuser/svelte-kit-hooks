@@ -1,4 +1,3 @@
-import { logger } from '$lib/logger';
-import { sequence } from '@sveltejs/kit/hooks';
+import logger from './lib/logger';
 
-export const handle = sequence(logger);
+export const handle = logger;
