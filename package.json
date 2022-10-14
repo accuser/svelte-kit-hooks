@@ -1,6 +1,6 @@
 {
 	"name": "@accuser/svelte-kit-hooks",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"description": "Utility hooks for Svelte Kit applications",
 	"keywords": [
 		"hooks",
