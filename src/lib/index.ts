@@ -1,1 +1,1 @@
-export { logger, handleFetch } from './logger/index.js';
+export { handleFetch, logger, type Locals } from './logger/index.js';
